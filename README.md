@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muzammil Sayyed
 =======================================================================================================================================
 
-I'm a passionate Python developer with experience in web development, software engineering, and AI/ML. Welcome to my GitHub profile! Here you'll find a mix of projects reflecting my interests and skills.
+I'm a passionate Python developer with experience in web development and AI/ML. Welcome to my GitHub profile! Here you'll find a mix of projects reflecting my interests and skills.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \- 💻 Python enthusiast, exploring its depths and pushing its boundaries.
